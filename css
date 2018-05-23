@@ -1,0 +1,135 @@
+
+
+	
+	body {
+    background-color: lightblue;
+}
+
+
+
+.florero{
+float: left;
+width:300px;
+height:500px;
+margin-left:10px;
+margin-bottom:5px;
+clear:left;
+  
+    border: 3px, ;
+    padding: 10px;
+
+
+
+
+}
+
+
+
+li {
+    display: inline;
+    float:left;
+	
+	
+	margin-top: 2.5px;
+    margin-right:0px;
+    margin-bottom:2.5px;
+    margin-left:0px;
+	padding-top:2.5px; 
+    padding-right:2px;
+    padding-bottom:2.5px;
+    padding-left:4px;
+	border-style:outset;
+	
+	}
+
+
+a {
+    display: block;
+   
+    background-color:;
+}
+
+
+
+li:hover { 
+    background-color: #CF2022;
+	color: red;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+/*	
+border-width: 10px;
+color: #rgb(99, 255, 198) ;
+font-size:120%; 
+height:150px;	
+width:1500px;
+background:purple;
+margin:10px 80px;
+padding:15px;
+border:10px solid;#000;
+display:inline-block;
+	8475384523.
+	261.000
+	rgb(92, 172, 235)
+
+
+
+
+.tags
+{
+	display:block; 
+	margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom:10px;
+    margin-left:10px;
+	padding-top:10px; 
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+*/
